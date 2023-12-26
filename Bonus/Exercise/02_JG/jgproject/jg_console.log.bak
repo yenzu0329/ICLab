@@ -1,0 +1,66 @@
+2023-05-13 16:37:52.677566 (46454) main____ INFO    ----------------------------------------
+2023-05-13 16:37:52.677636 (46454) main____ INFO    Jasper version info
+2023-05-13 16:37:52.677641 (46454) main____ INFO      tool      : Jasper 2023.03
+2023-05-13 16:37:52.677645 (46454) main____ INFO      version   : 2023.03 FCS 64 bits
+2023-05-13 16:37:52.677648 (46454) main____ INFO      build date: 2023.03.29 16:16:18 UTC
+2023-05-13 16:37:52.677650 (46454) main____ INFO    ----------------------------------------
+2023-05-13 16:37:52.677652 (46454) main____ INFO    Runtime info:
+2023-05-13 16:37:52.677655 (46454) main____ INFO      platform  : Linux 3.10.0-1160.88.1.el7.x86_64 x86_64
+2023-05-13 16:37:52.677660 (46454) main____ INFO      hostname  : ee22
+2023-05-13 16:37:52.677663 (46454) main____ INFO      pid       : 46454
+2023-05-13 16:37:52.677665 (46454) main____ INFO      arguments : '-style' 'windows' 'run.tcl'
+2023-05-13 16:37:52.677668 (46454) main____ INFO      locale    : ANSI_X3.4-1968
+2023-05-13 16:37:52.677670 (46454) main____ INFO    ----------------------------------------
+2023-05-13 16:37:52.677672 (46454) main____ INFO    System resource limits info:
+2023-05-13 16:37:52.677676 (46454) main____ INFO      virtual memory: unlimited
+2023-05-13 16:37:52.677678 (46454) main____ INFO      cpu time      : unlimited
+2023-05-13 16:37:52.677685 (46454) main____ INFO      processes     : 4096
+2023-05-13 16:37:52.677696 (46454) main____ INFO      stack size    : 8388608 B
+2023-05-13 16:37:52.677699 (46454) main____ INFO      core file size: 0 B
+2023-05-13 16:37:52.677701 (46454) main____ INFO      open files    : 1024
+2023-05-13 16:37:52.677704 (46454) main____ INFO      file size     : unlimited
+2023-05-13 16:37:52.677706 (46454) main____ INFO    ----------------------------------------
+2023-05-13 16:37:52.677708 (46454) main____ INFO    Memory statistics:
+2023-05-13 16:37:52.677712 (46454) main____ INFO      total physical memory  : 1056530580 kB
+2023-05-13 16:37:52.677714 (46454) main____ INFO      free physical memory   : 1014660016 kB
+2023-05-13 16:37:52.677716 (46454) main____ INFO      committed address space: 30049504 kB
+2023-05-13 16:37:52.677718 (46454) main____ INFO    ----------------------------------------
+2023-05-13 16:37:52.678194 (46454) main____ INFO    Important environment variables:
+2023-05-13 16:37:52.678207 (46454) main____ INFO      CDS_AUTO_64BIT     : 'ALL'
+2023-05-13 16:37:52.678211 (46454) main____ INFO      CDS_LOAD_ENV       : 'CSF'
+2023-05-13 16:37:52.678214 (46454) main____ INFO      CDS_Netlisting_Mode: 'Analog'
+2023-05-13 16:37:52.678218 (46454) main____ INFO      DISPLAY            : 'localhost:13.0'
+2023-05-13 16:37:52.678222 (46454) main____ INFO      JASPER_INSTALL_DIR : '/usr/cad/cadence/JASPER/jasper_2023.03'
+2023-05-13 16:37:52.678225 (46454) main____ INFO      JASPER_KERNEL_CHECK: '1'
+2023-05-13 16:37:52.678229 (46454) main____ INFO      JASPER_OS_CHECK    : '1'
+2023-05-13 16:37:52.678234 (46454) main____ INFO      LM_LICENSE_FILE    : '5280@cad1.ee.nctu.edu.tw:26585@lshc:5280@lshc:1717@lshc:5280@lstn:5280@lstc:26585@lstn:26585@lstc:'
+2023-05-13 16:37:52.678240 (46454) main____ INFO    ----------------------------------------
+2023-05-13 16:37:52.679463 (46454) lic_core INFO    Initializing license system ...
+2023-05-13 16:37:52.682850 (46454) lic_core INFO    ... license system initialized.
+2023-05-13 16:37:52.705687 (46454) lic__man INFO    Claim 'main' for <ui>.
+2023-05-13 16:37:52.705751 (46454) lic_core INFO    (1) checking out 'jasper_interactive' ...
+2023-05-13 16:37:52.877330 (46454) lic_core INFO    ... (1) checkout succeeded
+2023-05-13 16:37:52.877481 (46454) lic__man INFO    Claim 'fpv' for <ui>.
+2023-05-13 16:37:52.877520 (46454) lic_core INFO    (2) checking out 'jasper_fpv' ...
+2023-05-13 16:37:53.125588 (46454) lic_core INFO    ... (2) checkout failed (error: -5) ("FLEXnet ERROR(-5, 0, 0): No such feature exists.")
+2023-05-13 16:37:53.125637 (46454) lic_core INFO    (3) checking out 'jasper_fao' ...
+2023-05-13 16:37:53.293300 (46454) lic_core INFO    ... (3) checkout succeeded
+2023-05-13 16:37:53.294350 (46454) main____ INFO    Tool inactivity delay is 480000 ms.
+2023-05-13 16:37:53.779009 (46454) lic__man INFO    Claim 'fpv' for <ui>.
+2023-05-13 16:37:53.954815 (46454) lic__man INFO    Unclaim 'fpv' for <ui>.
+2023-05-13 16:37:53.954855 (46454) lic__man INFO    Claim 'fpv' for <ui>.
+2023-05-13 16:37:53.975198 (46454) session_ INFO    Starting analysis session with session id 'session_0' (launcher: <local>) ...
+2023-05-13 16:37:53.977720 (46454) session_ INFO    Analysis session with session id 'session_0' started (pid: 46478)
+2023-05-13 16:37:54.895143 (46454) session_ INFO    Analysis session 'session_0' connected to the console (host: 127.0.0.1:46114)
+2023-05-13 16:37:55.193723 (46454) main____ INFO    Releasing console memory by request of analysis session 'session_0'.
+2023-05-13 16:37:55.194266 (46454) lic__man INFO    Unclaim everything for 'session_0'.
+2023-05-13 16:37:55.929558 (46454) lic__man INFO    Unclaim everything for 'session_0'.
+2023-05-13 16:37:59.191194 (46454) lic__man INFO    Claim 'fpv' for 'session_0'.
+2023-05-13 16:37:59.191232 (46454) lic__man INFO    Claim 'fpv' for 'session_0/prove-0'.
+2023-05-13 16:37:59.744208 (46454) lic__man INFO    Unclaim everything for 'session_0/prove-0'.
+2023-05-13 16:38:20.647469 (46454) lic__man INFO    Claim 'fpv' for 'session_0'.
+2023-05-13 16:46:09.612686 (46454) main____ INFO    About to exit: requested from GUI
+2023-05-13 16:46:09.830820 (46454) session_ INFO    Analysis session 'session_0' disconnected.
+2023-05-13 16:46:09.837545 (46454) lic_core INFO    (1) checkin jasper_interactive
+2023-05-13 16:46:09.839979 (46454) lic_core INFO    (3) checkin jasper_fao
+2023-05-13 16:46:09.844002 (46454) main____ INFO    Exiting with status 0.

@@ -1,0 +1,62 @@
+pattern_num = 10
+
+#0
+in_dir = 3
+in_des = 15
+in_addr_M = 7428
+in_addr_G = 10780
+
+#1
+in_dir = 3
+in_des = 12
+in_addr_M = 6541
+in_addr_G = 9460
+
+#2
+in_dir = 3
+in_des = 7
+in_addr_M = 4331
+in_addr_G = 10028
+
+#3
+in_dir = 3
+in_des = 15
+in_addr_M = 4097
+in_addr_G = 9071
+
+#4
+in_dir = 2
+in_des = 9
+in_addr_M = 7513
+in_addr_G = 11116
+
+#5
+in_dir = 2
+in_des = 12
+in_addr_M = 4958
+in_addr_G = 10292
+
+#6
+in_dir = 3
+in_des = 3
+in_addr_M = 5068
+in_addr_G = 10723
+
+#7
+in_dir = 2
+in_des = 14
+in_addr_M = 4196
+in_addr_G = 9859
+
+#8
+in_dir = 2
+in_des = 11
+in_addr_M = 7908
+in_addr_G = 8237
+
+#9
+in_dir = 1
+in_des = 4
+in_addr_M = 4406
+in_addr_G = 9841
+
